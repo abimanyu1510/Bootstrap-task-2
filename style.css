@@ -17,7 +17,7 @@ margin:50px auto;
 width:max-content;
 display: grid;
 grid-template-columns: repeat(4,100px);
-gap: 200px;
+gap: 100px;
 }
 
 .box{
