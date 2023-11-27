@@ -1,3 +1,4 @@
+@media (min-width:480px) and (max-width:1200px){
 body{
     border: 5px solid black;
 }
@@ -12,6 +13,7 @@ text-align: center;
 color: black;
 
 }
+
 .boxes{
 margin:50px auto;
 width:max-content;
@@ -51,4 +53,5 @@ font-size:small;
 .btn{
     float: right;
 border: 2px solid black;
+}
 }
